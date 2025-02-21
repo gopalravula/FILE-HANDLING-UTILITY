@@ -23,3 +23,5 @@ The user is prompted to enter the name of the file they want to interact with, i
 Read File: The program reads the file’s contents and displays it in the console.
 Write File: The user enters content that will be written to the file. If the file does not exist, it will be created.
 Modify File: The user enters content to append to the file. The new content is added on a new line at the end of the file. Error messages are displayed if something goes wrong during the operation (e.g., file not found, IO exception).
+
+![Image](https://github.com/user-attachments/assets/297f6d6d-dac4-4964-80ed-e4d39000e0fb)
